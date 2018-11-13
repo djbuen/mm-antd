@@ -1,7 +1,7 @@
 {
   "name": "mm-antd",
   "description": "compiled bower version of antd",
-  "main": "lib/index.js",
+  "main": "dist/antd.js",
   "authors": [
     "ant"
   ],
