@@ -1,7 +1,10 @@
 {
   "name": "mm-antd",
   "description": "compiled bower version of antd",
-  "main": "dist/antd.js",
+  "main": [
+    "dist/antd.js",
+    "dist/antd.css"
+  ],
   "authors": [
     "ant"
   ],
