@@ -1,0 +1,29 @@
+{
+  "name": "mm-antd",
+  "description": "compiled bower version of antd",
+  "main": "lib/index.js",
+  "authors": [
+    "ant"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ant",
+    "design",
+    "react",
+    "react-component",
+    "component",
+    "components",
+    "ui",
+    "framework",
+    "frontend"
+  ],
+  "homepage": "https://github.com/djbuen/mm-antd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
